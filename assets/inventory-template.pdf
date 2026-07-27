@@ -1,0 +1,28 @@
+DIGITAL ESTATE PLANNING - ACCOUNT INVENTORY TEMPLATE
+
+For each account, record the following information:
+
+Account Category: ___________________
+Account Name: _______________________
+Website URL: ________________________
+Username / Email: ____________________
+Password: ___________________________
+Password Location (if not here): _____
+MFA Enabled: Yes / No
+MFA Type: Text / Authenticator App / Passkey / Hardware Key / Other
+MFA Platform / Device: ______________
+Notes: ______________________________
+
+EXAMPLE:
+Account Category: Email
+Account Name: Gmail
+Website URL: mail.google.com
+Username: myname@gmail.com
+Password: [stored in Bitwarden]
+MFA Enabled: Yes
+MFA Type: Authenticator App
+MFA Platform: Google Authenticator on iPhone
+Notes: Also used for YouTube and Google Drive
+
+Use the CSV version of this template for digital storage.
+Print this version for physical backup.
