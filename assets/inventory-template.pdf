@@ -1,28 +1,80 @@
-DIGITAL ESTATE PLANNING - ACCOUNT INVENTORY TEMPLATE
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
 
-For each account, record the following information:
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260806141703-05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260806141703-05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 952
+>>
+stream
+GauI6D/[lW&BE]&;r#P+5o)Q-'>1$n3^=Wo5R*Yo6>l(bAuQf6FBcLCQ_`;B9c"tc2H#cE/F.L]huE*MfQ`PT*mXl\,1o%(5U]$e5a]M53ehW2pba1pQ+h)=G[n6'Xd73OiqQmn8mF"PMc-1X"S-)R>EQPR4c&711BgtN9S7*;^pe"8i7DWL_bhE>Kdu&P\e_<qq%=l+cVe),*Jf/2oF,((\K7/&iq7iFo7IcZb<nDH%iB?GCZ)=7Z%`WL[Mt8XY2Q)"61B+']RbA=\VPAlKlSNu;Q$M.OXdWoX:VW9q$WX3R*%g_4G<jiGp6Q\Q:l=tqNT6jKoGQVKZ@/Pb\A0Pi.G+OG2;T?NGn+m1tYfQ)`K[%Iimj%N,4)SITb.TLL:BPrqY1+O@)`oTCBDD!]4=4TYH@U+\MiKT8oP8faU(Xb]p./KgCH!(sf`d[fG9^mJha0ntNY11u/5;B-\9t?oZ^l0;V]g0pJ#tF9sacMi4,XGf#CbkPN./N"qt\U*KLbK@:aa7=f+;7/)d?,8jUG7E_c"1*0mnijM7Xd/m<SPpk:`j=n_3ZrMV*Q!!%p>FnW/GV7pQIf4e4o,^,4,?\1FEJiih$OToc3"X[shLZ6C^dr43kY`+!T_7]tg<#ks^4<b;(kC]N!HhYO_M3>'?U/BSYqN'QQ/VM(@nS"l(l4<1p"/G3S9n@SUHLtgl$_%,i<2VLk0[pI;-8\+8LgfDc[11),N@.;apskOAUg9#<;ef#Ldl25JD[B8<(oS-fTRTgfMng<4\XAH3I\=j?mY#f+@Zk1js%%,p5eglcrdhp`OmFhl9kIL%@[HF3n(*!I;o+16G4G:Kn`$I#H=/-cLiAb9E];lD4(oTH/2!SG0`+3[50*RTkC,i1R)qsq-4jJlSBi(B=FP"BY3hqKZnIVH>R9:eP%<I&k*LI8YrGlNQ\qjnuq.*>T!AC:.)FA~>endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000446 00000 n 
+0000000639 00000 n 
+0000000707 00000 n 
+0000000987 00000 n 
+0000001046 00000 n 
+trailer
+<<
+/ID 
+[<8e4fd794af3addacfa69400fed8a2447><8e4fd794af3addacfa69400fed8a2447>]
+% ReportLab generated PDF document -- digest (opensource)
 
-Account Category: ___________________
-Account Name: _______________________
-Website URL: ________________________
-Username / Email: ____________________
-Password: ___________________________
-Password Location (if not here): _____
-MFA Enabled: Yes / No
-MFA Type: Text / Authenticator App / Passkey / Hardware Key / Other
-MFA Platform / Device: ______________
-Notes: ______________________________
-
-EXAMPLE:
-Account Category: Email
-Account Name: Gmail
-Website URL: mail.google.com
-Username: myname@gmail.com
-Password: [stored in Bitwarden]
-MFA Enabled: Yes
-MFA Type: Authenticator App
-MFA Platform: Google Authenticator on iPhone
-Notes: Also used for YouTube and Google Drive
-
-Use the CSV version of this template for digital storage.
-Print this version for physical backup.
+/Info 7 0 R
+/Root 6 0 R
+/Size 10
+>>
+startxref
+2088
+%%EOF
